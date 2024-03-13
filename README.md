@@ -18,10 +18,10 @@ This is a simple web-based alarm clock application that allows users to set mult
 ## Usage
 
 Usage-
-  1. Open the application in your web browser.
-  2. Set an alarm by selecting the desired hour, minute, second, and AM/PM option, then click on the "Set Alarm" button.
-  3. View the list of set alarms in the "ALARMS" section.
-  4. When the set time for an alarm is reached, an alert will pop up.
+- Open the application in your web browser.
+- Set an alarm by selecting the desired hour, minute, second, and AM/PM option, then click on the "Set Alarm" button.
+- View the list of set alarms in the "ALARMS" section.
+- When the set time for an alarm is reached, an alert will pop up.
 
 ## Hosting Link
 
